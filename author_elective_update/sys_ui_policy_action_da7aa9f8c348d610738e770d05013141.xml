@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>cmdb_ci.owned_by.last_name</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 16:20:51</sys_created_on>
+        <sys_id>da7aa9f8c348d610738e770d05013141</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci.owned_by.last_name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_da7aa9f8c348d610738e770d05013141</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 16:20:51</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="NeedIt show or hide Other field">d399a53cc308d610738e770d050131cc</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=da7aa9f8c348d610738e770d05013141"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3c3597471b8e71d0c8432f8dee4bcb90</instance_id>
+        <instance_name>dev195897</instance_name>
+        <name>sys_ui_policy_action_da7aa9f8c348d610738e770d05013141</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>cmdb_ci.owned_by.last_name</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 16:20:51</sys_created_on><sys_id>da7aa9f8c348d610738e770d05013141</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cmdb_ci.owned_by.last_name</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_da7aa9f8c348d610738e770d05013141</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 16:20:51</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="NeedIt show or hide Other field">d399a53cc308d610738e770d050131cc</ui_policy><value/><value_action>ignore</value_action><visible>ignore</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=da7aa9f8c348d610738e770d05013141"/></record_update>]]></payload>
+        <payload_hash>1768235898</payload_hash>
+        <record_name>cmdb_ci.owned_by.last_name</record_name>
+        <reverted_from/>
+        <source>fd583b50c3c41210738e770d05013102</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 16:20:51</sys_created_on>
+        <sys_id>a6caa5f8c348d610738e770d050131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914c8acf0d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 16:20:51</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>aacaa5f83b48d610e742ec6c97b3daac</update_guid>
+        <update_guid_history>aacaa5f83b48d610e742ec6c97b3daac:1768235898</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 16:24:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>50d51ef8bb9b41a09f4866e4d18cf791</sys_id>
+        <sys_metadata>da7aa9f8c348d610738e770d05013141</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci.owned_by.last_name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt show or hide Other field">d399a53cc308d610738e770d050131cc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_da7aa9f8c348d610738e770d05013141</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_da7aa9f8c348d610738e770d05013141">a6caa5f8c348d610738e770d050131ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 16:24:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
