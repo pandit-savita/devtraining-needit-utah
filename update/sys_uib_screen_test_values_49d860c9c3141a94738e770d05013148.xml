@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "5865e308432021105571609dc7b8f23b": {
+        "columnLimit": 0,
+        "columns": "",
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "listId": "experience-list",
+        "rowLimit": null,
+        "table": "x_58872_needit_needit",
+        "view": "654e61d11b02301068dd5464604bcb3e"
+    }
+}</macroponent_config>
+        <screen display_value="">fa623b74c350d694738e770d050131fc</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 16:26:50</sys_created_on>
+        <sys_id>49d860c9c3141a94738e770d05013148</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_49d860c9c3141a94738e770d05013148</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 16:26:50</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
